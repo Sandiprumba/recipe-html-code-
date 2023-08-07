@@ -1,2 +1,2 @@
 # recipe-html-code-
-A full detailed recipe about MoMo
+A full detailed recipe about Thukpa
